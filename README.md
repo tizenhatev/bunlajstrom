@@ -45,7 +45,7 @@ A lentebb található táblázatban felsorolva találhatók a véleményem (vél
 | ? | M6 autópálya | ... |
 | ? | Szőlő utca botrány | A Szőlő utcai Javítóintézet igazgatóját, Juhász Péter Pált (és élettársát) a rendőrség több bűncselekmény elkövetésével vádolta meg, többek között ember kereskedelemmel. A kormány sokáig tagadta, hogy kiskorú sértett lenne az ügyben, amit az ügyésség cáfolt azzal, hogy kiderítette 15 kiskorú érintett van az ügyben |
 | ? | Zsolti Bácsi | Az ügy kapcsán Juhinak (volt politiukus és influencer) egy gyermekotthonokkal kapcsolatban álló lelkész arról beszélt, hogy gyerekek akiket egy Zsolti bácsi nevű illető szekszuálisan molesztálta őket és a hangja alapján felismerték a televízióban. Később egy képviselő Semjén Zsolt miniszterelnök-helyettesnek szegezte a kérdést "Ki az a Zsolti Bácsi?" |
-| ? | Semjén Zsolt és a kétes diplomája | ... |
+| ? | Semjén Zsolt és a kétes diplomája | [Wikipedia](https://hu.wikipedia.org/wiki/Semj%C3%A9n_Zsolt_pl%C3%A1gium%C3%BCgye) |
 | ? | Bicskei pedofil kegyelmi ügye | Novák Katalin A Pápa magyarországi látogatásakor többknek kegyelmet adott, többek között a Bicskei Gyermekotthon pedofíliáért elitélt igazgatójának. |
 | ? | Kaleta Gábor pedofil ügye | ... |
 | ? | Déli határzár  (8,5 milliárd forint) | 175km -en. A kerítés nem folytonos, a legtöbb helyen, egy létra, vagy ponyva átfektetésével át lehet rajta jutni. Az, hogy a határsértések száma csökkent leginkább a Horvát rendőrségnek és határőrizetnek köszönhető, valamint, hogy a határsértők száma csökkent |
@@ -60,6 +60,29 @@ A lentebb található táblázatban felsorolva találhatók a véleményem (vél
 | ? | A nyugdíjjak Svájci típusú indexálásának megszüntetése | Ezen nincs mit magyarázni. [De van](https://nyugdijmaskeppen.hu/svajci-indexalas/). Amikor ezt megszüntették, az inflációtól (és csak attól) tették függővé a nyugdíj korrekcióját. |
 | ? | 28.500,- Ft GYES | Évtizedek óta változatlan. A mértékének utolsó megállípítása akkor volt, amikor még 40 - 50 ezer forint körül alakultak a fizetések. |
 | ? | Kínai vasút (Budapest - Belgrád vasút) építés | Ezt a kínai akkumulátor gyárak "kedvéért" kezdtük el építeni, hogy ezek olcsó és gyors szállítási kapacitáshoz jussanak. Erre a közvetlen vasútvonalra semmi szükségük nem volt (az elméáleti maximális sebesség 160 km/h lenne ezen a vonalon), lévén a Szerb - Magyar határon napokig, hetekig vesztegel a szállítmány vámolás miatt |
-
+| ? | Paks II beruházás | A probléma vele, hogy a kormány hosszas huzavona után úgy dönött, hogy orosz céggel építteti a Paksi atumerőmű bővítését |
+| ? | Állami díjak "neves művészeknek" | Első soran Kossuth Díj, olyan prominenseknek, mint Nagy Feró (Nemzet Csótánya), vagy Ákos. Tulajdonképpen mindenkinek aki a **FIDESZ** szekerét tolja. |
+| ? | Tóth Gabi, Nagy Feró, Curtis, Jaber és egyéb trash celebekkel koketálás | Ezt a **FIDESZ** valamiféle fiatalok felé közeledésnek szánta, kevés sikerrel. |
+| ? | MNB felújítás | Matolcsi György jegybank elnök, fiával (Matolcsi Ádám) és annak cégeivel végeztette az MNB székház felújítását, értelmetlen beszerzések és túlárazás jellemezte a projektet |
+| ? | MNB kifosztása | "Elvesztette közpénz jellegét..." Az MNB-ből különböző alapítványokon keresztül áramoltatták a pénzt egy Lengyel ingatlan alapba, amelynek segítségével képzelték a Kecskeméti Egyetem kampuszát építették volna fel. Végső soron több száz milliárd forint tünt el. |
+| ? | Szatyor fing felesége képeket visz el a múzeumból | Nagy Zsuzsannát a fideszes polgármester a Rippl-Rónai Múzeumban fogadta. A videóból kiderül, hogy az elnök felesége korábbi látogatásakor megemlítette, hogy jól nézne ki a Sándor-palotában egy Rippl-Rónai József festmény. |
+| ? | Lázár Jani batidai kastélya és az oda vezető út | ... |
+| ? | Orbán Viktor hatvanpusztai kastélya | A miniszterelnök tagad "Az egy félkész gazdaság, amit édesapám fejleszt. Az építkezés során műemléki épületeket bontottak le. |
+| ? | Hadházi Ákos megtámadása, autós üldözés | A hatvanpusztai birtokhoz vezető földúton egy biztonsági őr, megpróbálta leszorítani Hadházi Ákos autóját, de az autós üldözés végén a biztonságiőr autója borult fel. |
+| 2013.03 | Dr B. Krisztián a Budai Irgalmasrendi Kórház vezetője volt sósavval öntötte le volt szeretője ágyékát. Az orvost előbb felmentették, később elitéálték, a nőt az orvos tovább zaklatta, ez addig tartott, amíg a férfit végre börtönbe nem zárták. |
+| ? | Schadl - Wölner végrehajtó maffia | Csak keress rá a nevekre tonna szám lesznek cikkek én ehhez kevés vagyok, igazi fertő az egész történet |
+| ? | Eszement stadion építés | Ez alatt a 16 év alatt mintegy 40 (!!!) stadiont építtetett a kormány illetve a **FIDESZ**es önkormányzatok. Végtelen túlárazások, égbe szökő üzemeltetési költségek, amiket a tulajdonosok az esetek többségében nem tudtak, nem tudnak fizetni. |
+| ? | TAO pénzmosoda | ... |
+| ? | Schmidt Pál köztársasági elnöki periódusa | Mindent aláír amit mondanak, igaz a diplomáját hogy szerezte, igazán senki nem tudja |
+| ? | Áder János köztársasági elnöki periódusa | Elmondása szerint környezet védő, kivétel, ha akkumulátor gyárról, a vízbázisról, van szó, vagy más fontosabb érdek érvényesítéséről |
+| ? | Rezsicsökkentés | A kormány elmondása szerint lényegesen kedvezőbb áron kapjuk az energiát, mint az indokolt lenne, amit a számlákon is fel kell tüntetni (valamilégből kapott számítás alapján). Mindeközben a kedvezményes tarifa normál piaci ár, a kedvezményes keret feletti fogyasztást ennek hétszereséért számlázzák. Ehhez adódik még a rendszerhasználati díj ami az energia ár többszöröse és a fogyasztástól függ. |
+| ? | Retegés kampányok | Plakát kampányok, a köztévé műsorai, YouTube és Facebook hirdetések százait zúdította ránk a kormány, hol háborúról, hol migránsokról, hol az EU-ról. |
+| ? | Novák Katalin és minden bukott köztársasági elnöknek nyújtott irreális jövedelem és lakások | ... |
+| ? | Extra adók | Amit a hétköznapi ember fizet (iparági különadók, bankok, biztosítók, benzinkutak, kiskereskedelem) |
+| ? | Nemzeti Konzultációk és az arra elköltött milliárdok | ... |
+| ? | HMKE szaldós elszámolás csak 10 évig | ... |
+| ? | HMKE szabályozás, úgy mindenestől | ... |
+| ? | KATA adónem megszüntetése | ... |
+| ? | Olasz szemét ügy | ... |
 
 A dátumok majd később, ahogy sikerül feldolgoznom a témákat
